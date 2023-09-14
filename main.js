@@ -14,3 +14,6 @@ function persona(nombre,edad){
 	this.nombre = nombre;
 	this.edad = edad;
 }
+
+
+const hola_2 = (nombre) =>console.log(`${nombre}`);
